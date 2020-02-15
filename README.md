@@ -37,6 +37,6 @@ In keeping with the "cascading" style of CSS hierarchy, I added my additional st
 
 The required outputs of this project, including this README, the url of the deployed web application and the url of this repo.
 
-- Deployed App - https://sptiality-dc.github.io/
+- Deployed App - https://spatiality-dc.github.io/portfolio/
 
-- Github Repo - https://github.com/spatiality-dc/
+- Github Repo - https://github.com/spatiality-dc/portfolio
